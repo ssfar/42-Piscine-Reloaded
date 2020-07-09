@@ -5,10 +5,10 @@ Subject : [English](https://github.com/ssfar/42-Subjects.pdf/blob/master/piscine
 
 Grade 100/100
 
-#### Objectives :
+#### Objectives:
 • Revision  
 • Programming basics  
-#### Skills :
+#### Skills:
 • Imperative programming   
 • Unix  
 • Rigor    
